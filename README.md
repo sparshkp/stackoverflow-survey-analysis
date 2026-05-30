@@ -54,7 +54,6 @@ patterns and job satisfaction insights.
 - CASE WHEN for data categorization
 - STRING_SPLIT + CROSS APPLY for multi-value columns
 - CTEs for multi-step calculations
-- Window functions for growth analysis
 - HAVING vs WHERE filtering
 
 ## How to Run
